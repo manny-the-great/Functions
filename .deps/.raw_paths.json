@@ -1,0 +1,9 @@
+{
+  "@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/FunctionsClient.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/FunctionsClient.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/interfaces/IFunctionsRouter.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/interfaces/IFunctionsRouter.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/libraries/FunctionsResponse.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/libraries/FunctionsResponse.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/interfaces/IFunctionsClient.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/interfaces/IFunctionsClient.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/libraries/FunctionsRequest.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/functions/v1_0_0/libraries/FunctionsRequest.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/vendor/solidity-cborutils/v2.0.0/CBOR.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/vendor/solidity-cborutils/v2.0.0/CBOR.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/vendor/@ensdomains/buffer/v0.1.0/Buffer.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/vendor/@ensdomains/buffer/v0.1.0/Buffer.sol"
+}
